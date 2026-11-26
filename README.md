@@ -1,5 +1,11 @@
 # EcoTrack AI — Environmental Policy Change Tracker (PS 102)
 
+Compares two versions of an environmental guidance PDF and produces a change log and affected-stakeholder summary.
+
+# EcoTrack-AI
+<<<<<<< HEAD
+# EcoTrack AI — Environmental Policy Change Tracker (PS 102)
+
 Compares two versions of an environmental guidance PDF and produces a **change log** and an
 **affected-stakeholder summary**. Obligation wording is **quoted exactly**: quotes are copied from the
 extracted PDF text by paragraph ID, never written by the AI, and every AI explanation is checked
@@ -108,3 +114,6 @@ Every row is flagged **Needs review** (with the reason shown) if any of these fa
 
 English, text-based PDFs under 4.4 MB (Vercel caps request bodies at 4.5 MB). No OCR for scanned PDFs.
 Complex tables and multi-column layouts may extract in the wrong order. Not legal advice.
+=======
+# EcoTrack-AI
+>>>>>>> b2f4da524ddfd2aa6ec2b4613b93a6d7fa67b7bc
